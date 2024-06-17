@@ -50,7 +50,7 @@
 🛑 **Important Notice:** 
 This repository is no longer maintained by the owner `Devs Do Code (Sree)`. Any contribution in this repository is heartily welcomed 💝💝
 
-## Quick Start
+## 🚀 Quick Start
 
 1. **Clone the Repository:**
    ```bash
@@ -77,7 +77,7 @@ This repository is no longer maintained by the owner `Devs Do Code (Sree)`. Any 
    - Copy the `JWT Token` value (it appears as a long string without the `Bearer` prefix). This token serves as your API key and must be kept confidential.
    - Example format: `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzc29faWQiOiI3OTg3ZTZmYS1kZDUzLTRlMzQtYjkxNC1lNWUzZWVlM2IwYjMiLCJpc19vYXV0aCI6MSwib2F1dGhfcHJvdmlkZXIiOiJ......`
 
-## Installation
+## 🛠️ Installation
 
 After cloning the repository and obtaining your `JWT Token`, follow these steps to set up and run the project:
 
